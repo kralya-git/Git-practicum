@@ -58,6 +58,16 @@ https://github.com/kralya-git/0_git_basics
 
 
 12. Откатываем до последней рабочей версии
+
+
+![image](https://user-images.githubusercontent.com/113534398/190250618-0bedb009-77e9-4b74-9d4f-a860d2c42e00.png)
+
+
 13. Просмотреть историю коммитов
+
+
+![image](https://user-images.githubusercontent.com/113534398/190250842-7171359c-4921-4a61-93b9-35f4546fe7ad.png)
+
+
 14. Добавить несколько коммитов произвольного содержимого
 15. Создать пулл реквест в данный репозиторий
