@@ -20,6 +20,9 @@ https://github.com/kralya-git/0_git_basics
 ![image](https://user-images.githubusercontent.com/113534398/190245997-d593ae9e-5c51-4c70-b653-2cb0b78cd1e9.png)
 
 5. На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием
+
+![image](https://user-images.githubusercontent.com/113534398/190248635-67d7ada6-b649-44e5-a98a-404a6e3a1548.png)
+
 6. Фиксируем скрипт в репозитории (делаем коммит)
 
 ![image](https://user-images.githubusercontent.com/113534398/190236172-8f640d3c-cff8-426a-89e9-c79ae4ad433c.png)
