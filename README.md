@@ -24,6 +24,9 @@ https://github.com/kralya-git/0_git_basics
 ![image](https://user-images.githubusercontent.com/113534398/190236172-8f640d3c-cff8-426a-89e9-c79ae4ad433c.png)
 
 7. Обновляем удаленный репозиторий репозиторий (делаем пуш)
+
+![image](https://user-images.githubusercontent.com/113534398/190239533-ca2a0df1-1a37-4430-8dca-d03315619446.png)
+
 8. Через текстовый редактор добавить любую новую строку с комментарием
 9. Сделать коммит
 10. Вности синтаксическую ошибку в скрипт
