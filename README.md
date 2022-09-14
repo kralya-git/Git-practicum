@@ -13,6 +13,8 @@
 
 https://github.com/kralya-git/0_git_basics
 ![image](https://user-images.githubusercontent.com/113534398/190226588-d62ef4ad-2538-4fc8-84b7-100dfc10c747.png)
+![image](https://user-images.githubusercontent.com/113534398/190245997-d593ae9e-5c51-4c70-b653-2cb0b78cd1e9.png)
+
 
 4. Склонировать созданный удаленный репозиторий в директорию ~/git/test
 
