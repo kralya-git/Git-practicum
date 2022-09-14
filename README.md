@@ -28,6 +28,9 @@ https://github.com/kralya-git/0_git_basics
 ![image](https://user-images.githubusercontent.com/113534398/190239533-ca2a0df1-1a37-4430-8dca-d03315619446.png)
 
 8. Через текстовый редактор добавить любую новую строку с комментарием
+
+![image](https://user-images.githubusercontent.com/113534398/190242971-5de210d3-2882-4350-9983-53d0131d6e52.png)
+
 9. Сделать коммит
 10. Вности синтаксическую ошибку в скрипт
 11. Сделать коммит ошибочного скрипта
