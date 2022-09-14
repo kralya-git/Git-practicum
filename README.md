@@ -76,3 +76,7 @@ https://github.com/kralya-git/0_git_basics
 
 
 15. Создать пулл реквест в данный репозиторий
+
+![image](https://user-images.githubusercontent.com/113534398/190255329-f8fdce0d-e063-45e1-a728-76fa8c7e6531.png)
+
+
