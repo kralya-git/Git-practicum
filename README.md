@@ -13,17 +13,18 @@
 
 https://github.com/kralya-git/0_git_basics
 ![image](https://user-images.githubusercontent.com/113534398/190226588-d62ef4ad-2538-4fc8-84b7-100dfc10c747.png)
-![image](https://user-images.githubusercontent.com/113534398/190245997-d593ae9e-5c51-4c70-b653-2cb0b78cd1e9.png)
-
 
 4. Склонировать созданный удаленный репозиторий в директорию ~/git/test
 
 ![image](https://user-images.githubusercontent.com/113534398/190234876-fa3769ec-df2b-401a-813e-d44749d895c8.png)
+![image](https://user-images.githubusercontent.com/113534398/190245997-d593ae9e-5c51-4c70-b653-2cb0b78cd1e9.png)
 
 5. На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием
 6. Фиксируем скрипт в репозитории (делаем коммит)
 
 ![image](https://user-images.githubusercontent.com/113534398/190236172-8f640d3c-cff8-426a-89e9-c79ae4ad433c.png)
+![image](https://user-images.githubusercontent.com/113534398/190247959-89e08514-d5fe-4cb0-ae07-4962e2fca090.png)
+
 
 7. Обновляем удаленный репозиторий репозиторий (делаем пуш)
 
