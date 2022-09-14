@@ -70,4 +70,9 @@ https://github.com/kralya-git/0_git_basics
 
 
 14. Добавить несколько коммитов произвольного содержимого
+
+
+![image](https://user-images.githubusercontent.com/113534398/190252809-5b1f7e52-d7ce-498f-9ef9-4aa699349d83.png)
+
+
 15. Создать пулл реквест в данный репозиторий
