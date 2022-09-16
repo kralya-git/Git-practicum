@@ -1,4 +1,4 @@
-# GitPracticum_1
+# Git-practicum
 Лабораторная работа DO2.3 “Работа с GitHub”
 
 ## 2. Работа с Git в терминале
